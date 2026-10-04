@@ -1,6 +1,6 @@
 # Hi, I'm Haoran Yang 👋
 
-I'm an MSc student in Artificial Intelligence at the University of Hong Kong (School of Computing and Data Science). Before that, I spent three years writing C++ in the autonomous-driving industry — onboard Infra at WeRide, and a summer of model post-training & data mining at Zhuoyu. Currently exploring where systems engineering meets LLMs: post-training pipelines, data quality, and evaluation.
+I'm an MSc student in Artificial Intelligence at the University of Hong Kong (School of Computing and Data Science). Before that, I spent three years writing C++ in the autonomous-driving industry — building onboard Infra systems, and later working on model post-training and data mining. Currently exploring where systems engineering meets LLMs: post-training pipelines, data quality, and evaluation.
 
 ---
 
@@ -26,5 +26,5 @@ I'm an MSc student in Artificial Intelligence at the University of Hong Kong (Sc
 
 ## 📫 Reach Me
 
-- Email: [youn_hr@126.com](mailto:youn_hr@126.com)
+- Email: <youn_hr@126.com>
 - Homepage: [hryang1130.github.io](https://hryang1130.github.io)

@@ -7,7 +7,7 @@ I'm an MSc student in Artificial Intelligence at the University of Hong Kong (Sc
 ## 🔧 What I'm Working On
 
 - 🎓 **HKU MSc in AI** — Coursework in Deep Learning, Large Language Models, and NLP, with a focus on post-training and data-centric topics.
-- 🤖 **LLM post-training experiments** — Small hands-on projects on dataset construction, fine-tuning, and evaluation workflows.
+- 🤖 **AI Infra** — Learning.
 - 💬 **WeTalk** — A full-stack distributed IM system built from scratch in C++: a Qt client, gRPC service dispatch, and a high-concurrency TCP gateway on Boost.Asio.
 
 ---
